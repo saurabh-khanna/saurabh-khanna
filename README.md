@@ -4,4 +4,6 @@ I am a Junior Research Fellow at Pembroke College, [University of Oxford](https:
 - 'misinfotainment' and the blurring lines between evidence and entertainment
 - exploring inequalities by gender, ethnicity, and age in: i) online job imagery, and ii) entertainment media
 
-I received my PhD in education policy (minor in computer science) from [Stanford University](https://www.stanford.edu/), where I was a Human-centered AI Fellow, a Stanford Data Science Scholar, and a William R and Sara Hart Kimball Fellow. My prior background spans computer science engineering (BITS Pilani), economics (Stanford), and education (TISS). I am equally fond of exploring unorthodox films from diverse cultures, cooking experiments, stargazing, and playing sidekick to <a href="/assets/img/coffee.jpeg" target="_blank">this angel</a>.
+I received my PhD in education policy (minor in computer science) from [Stanford University](https://www.stanford.edu/), where I was a Human-centered AI Fellow, a Stanford Data Science Scholar, and a William R and Sara Hart Kimball Fellow. My prior background spans computer science engineering (BITS Pilani), economics (Stanford), and education (TISS).
+
+I am equally fond of exploring unorthodox films from diverse cultures, cooking experiments, stargazing, and playing sidekick to <a href="/assets/img/coffee.jpeg" target="_blank">this angel</a>.
