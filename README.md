@@ -1,4 +1,4 @@
-I am an assistant professor of communication science at the [University of Amsterdam](https://www.uva.nl/en/profile/k/h/s.khanna/s.khanna.html), and a junior research fellow at Pembroke College, [University of Oxford](https://www.ox.ac.uk/). My research is aimed at quantifying the limits of human knowledge in an increasingly digitized world. Some of my ongoing projects include:
+I am an assistant professor of communication science at the [University of Amsterdam](https://www.uva.nl/en/profile/k/h/s.khanna/s.khanna.html), and a research fellow at Pembroke College, [University of Oxford](https://www.ox.ac.uk/). My research is aimed at quantifying the limits of human knowledge in an increasingly digitized world. Some of my ongoing projects include:
 
 - measuring diversity and incompleteness in information on the internet
 - 'misinfotainment' and the blurring lines between political and entertainment communication
